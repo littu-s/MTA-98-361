@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\bin\Debug\FirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\bin\Debug\FirstService.InstallLog
+   assemblypath = C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\bin\Debug\FirstService.exe
+Installing service FirstService...
+Service FirstService has been successfully installed.
+Creating EventLog source FirstService in log Application...
+Committing assembly 'C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\bin\Debug\FirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\bin\Debug\FirstService.InstallLog
+   assemblypath = C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\bin\Debug\FirstService.exe

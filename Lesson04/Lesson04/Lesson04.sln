@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageEvents", "..\PageEvents\PageEvents.csproj", "{BF3DF475-E091-492E-B2EF-157D2FA1D18F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithHTML", "..\..\Just IT\Certification Materials\MTA 98-361\Programs\Lesson04\WorkingWithHTML\WorkingWithHTML.csproj", "{8264214C-96CA-4587-A046-C8D8C37B8790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingSessionState", "..\UsingSessionState\UsingSessionState.csproj", "{AB020EF6-DB89-423B-8284-D32DA4EE5500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextWebService", "..\TextWebService\TextWebService.csproj", "{376AB2D3-102A-494D-9148-F1B4AA7A8A09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextWebServiceClient", "..\TextWebServiceClient\TextWebServiceClient.csproj", "{D39E7E1E-8ED7-4D28-A674-C8B36D462526}"
+	ProjectSection(ProjectDependencies) = postProject
+		{376AB2D3-102A-494D-9148-F1B4AA7A8A09} = {376AB2D3-102A-494D-9148-F1B4AA7A8A09}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF3DF475-E091-492E-B2EF-157D2FA1D18F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3DF475-E091-492E-B2EF-157D2FA1D18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3DF475-E091-492E-B2EF-157D2FA1D18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3DF475-E091-492E-B2EF-157D2FA1D18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8264214C-96CA-4587-A046-C8D8C37B8790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8264214C-96CA-4587-A046-C8D8C37B8790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8264214C-96CA-4587-A046-C8D8C37B8790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8264214C-96CA-4587-A046-C8D8C37B8790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB020EF6-DB89-423B-8284-D32DA4EE5500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB020EF6-DB89-423B-8284-D32DA4EE5500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB020EF6-DB89-423B-8284-D32DA4EE5500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB020EF6-DB89-423B-8284-D32DA4EE5500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376AB2D3-102A-494D-9148-F1B4AA7A8A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376AB2D3-102A-494D-9148-F1B4AA7A8A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376AB2D3-102A-494D-9148-F1B4AA7A8A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376AB2D3-102A-494D-9148-F1B4AA7A8A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39E7E1E-8ED7-4D28-A674-C8B36D462526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39E7E1E-8ED7-4D28-A674-C8B36D462526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39E7E1E-8ED7-4D28-A674-C8B36D462526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39E7E1E-8ED7-4D28-A674-C8B36D462526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C0B0E23-AA56-490C-9308-700C2D569CF7}
+	EndGlobalSection
+EndGlobal

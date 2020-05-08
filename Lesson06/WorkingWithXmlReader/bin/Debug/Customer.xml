@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!--Customer List-->
+<Customers>
+  <Customer Id="101">
+    <Company>XYZ Co</Company>
+    <CustomerPhone>07231456732</CustomerPhone>
+  </Customer>
+
+  <Customer Id="102">
+    <Company>K AND D Co</Company>
+    <CustomerPhone>07232121234</CustomerPhone>
+  </Customer>
+</Customers>
+ 

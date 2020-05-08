@@ -1,0 +1,7 @@
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithTextFiles\bin\Debug\WorkingWithTextFiles.exe.config
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithTextFiles\bin\Debug\WorkingWithTextFiles.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithTextFiles\bin\Debug\WorkingWithTextFiles.pdb
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.csprojAssemblyReference.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.csproj.CoreCompileInputs.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithTextFiles\obj\Debug\WorkingWithTextFiles.pdb

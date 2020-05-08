@@ -1,0 +1,7 @@
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithDataSet\bin\Debug\WorkingWithDataSet.exe.config
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithDataSet\bin\Debug\WorkingWithDataSet.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithDataSet\bin\Debug\WorkingWithDataSet.pdb
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithDataSet\obj\Debug\WorkingWithDataSet.csprojAssemblyReference.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithDataSet\obj\Debug\WorkingWithDataSet.csproj.CoreCompileInputs.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithDataSet\obj\Debug\WorkingWithDataSet.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithDataSet\obj\Debug\WorkingWithDataSet.pdb

@@ -1,0 +1,7 @@
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithXmlReader\bin\Debug\WorkingWithXmlReader.exe.config
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithXmlReader\bin\Debug\WorkingWithXmlReader.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithXmlReader\bin\Debug\WorkingWithXmlReader.pdb
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithXmlReader\obj\Debug\WorkingWithXmlReader.csprojAssemblyReference.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithXmlReader\obj\Debug\WorkingWithXmlReader.csproj.CoreCompileInputs.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithXmlReader\obj\Debug\WorkingWithXmlReader.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\WorkingWithXmlReader\obj\Debug\WorkingWithXmlReader.pdb

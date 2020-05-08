@@ -1,0 +1,10 @@
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\DatabaseDemo\bin\Debug\DatabaseDemo.exe.config
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\DatabaseDemo\bin\Debug\DatabaseDemo.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\DatabaseDemo\bin\Debug\DatabaseDemo.pdb
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\DatabaseDemo\obj\Debug\DatabaseDemo.csprojAssemblyReference.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\DatabaseDemo\obj\Debug\DatabaseDemo.Form1.resources
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\DatabaseDemo\obj\Debug\DatabaseDemo.Properties.Resources.resources
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.GenerateResource.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\DatabaseDemo\obj\Debug\DatabaseDemo.csproj.CoreCompileInputs.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\DatabaseDemo\obj\Debug\DatabaseDemo.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\DatabaseDemo\obj\Debug\DatabaseDemo.pdb

@@ -1,0 +1,10 @@
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\ParameterizedSP\bin\Debug\ParameterizedSP.exe.config
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\ParameterizedSP\bin\Debug\ParameterizedSP.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\ParameterizedSP\bin\Debug\ParameterizedSP.pdb
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\ParameterizedSP\obj\Debug\ParameterizedSP.csprojAssemblyReference.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\ParameterizedSP\obj\Debug\ParameterizedSP.Form1.resources
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\ParameterizedSP\obj\Debug\ParameterizedSP.Properties.Resources.resources
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\ParameterizedSP\obj\Debug\ParameterizedSP.csproj.GenerateResource.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\ParameterizedSP\obj\Debug\ParameterizedSP.csproj.CoreCompileInputs.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\ParameterizedSP\obj\Debug\ParameterizedSP.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson06\ParameterizedSP\obj\Debug\ParameterizedSP.pdb

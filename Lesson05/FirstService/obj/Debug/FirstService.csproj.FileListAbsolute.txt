@@ -1,0 +1,10 @@
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\bin\Debug\FirstService.exe.config
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\bin\Debug\FirstService.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\bin\Debug\FirstService.pdb
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\obj\Debug\FirstService.csprojAssemblyReference.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\obj\Debug\FirstService.FirstService.resources
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\obj\Debug\FirstService.csproj.GenerateResource.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\obj\Debug\FirstService.csproj.CoreCompileInputs.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\obj\Debug\FirstService.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\obj\Debug\FirstService.pdb
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\FirstService\obj\Debug\FirstService.ProjectInstaller.resources

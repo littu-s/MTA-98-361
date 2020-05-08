@@ -1,0 +1,7 @@
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\DisplayFile\bin\Debug\DisplayFile.exe.config
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\DisplayFile\bin\Debug\DisplayFile.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\DisplayFile\bin\Debug\DisplayFile.pdb
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\DisplayFile\obj\Debug\DisplayFile.csprojAssemblyReference.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\DisplayFile\obj\Debug\DisplayFile.csproj.CoreCompileInputs.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\DisplayFile\obj\Debug\DisplayFile.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\DisplayFile\obj\Debug\DisplayFile.pdb

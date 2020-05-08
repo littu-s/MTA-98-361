@@ -1,0 +1,11 @@
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\MDIApplication\bin\Debug\MDIApplication.exe.config
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\MDIApplication\bin\Debug\MDIApplication.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\MDIApplication\bin\Debug\MDIApplication.pdb
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\MDIApplication\obj\Debug\MDIApplication.csprojAssemblyReference.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\MDIApplication\obj\Debug\MDIApplication.ChildForm.resources
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\MDIApplication\obj\Debug\MDIApplication.Form1.resources
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\MDIApplication\obj\Debug\MDIApplication.Properties.Resources.resources
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\MDIApplication\obj\Debug\MDIApplication.csproj.GenerateResource.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\MDIApplication\obj\Debug\MDIApplication.csproj.CoreCompileInputs.cache
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\MDIApplication\obj\Debug\MDIApplication.exe
+C:\Users\littu\OneDrive\Desktop\MTA 98-361\Lesson05\MDIApplication\obj\Debug\MDIApplication.pdb
